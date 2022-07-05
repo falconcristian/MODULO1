@@ -1,0 +1,54 @@
+p{
+    color:blueviolet;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
+h2 {
+     text-align: center;
+    color: brown;
+
+}
+
+img{
+    display: block;
+    margin: 0px auto;
+   }
+
+   h3 {
+    text-align: center;
+   color: red;
+
+}
+
+ul{
+    text-align: center;
+}
+li{
+    text-align: center;
+}
+
+.titulo{ 
+    width: 10 px; /* Ancho de la caja */
+    height: 10 px; /* Alto de la caja  */
+     Padding: 20px; /* Espacio entre los laterales */
+     Box-sizing: border-box; /* para mantener la caja*/
+     background: #ff5db1;
+     background: -moz-linear-gradient(top, #ff5db1 0%, #ef017c 100%);
+     background: -webkit-linear-gradient(top, #ff5db1 0%,#ef017c 100%);
+     background: linear-gradient(to bottom, #ff5db1 0%,#ef017c 100%);
+     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff5db1', endColorstr='#ef017c',GradientType=0 );
+     color:azure;
+     text-align: center;
+     font-size: 30px;
+     font-style: italic;
+     border-radius: 5px 10px 5px 10px;
+
+}
+
+img { 
+    border-radius: 10px 20px 10px 20px; /*Border redondeados*/
+    box-shadow: 10px 10px 10px  gray ; /*Sombras, horizontal, vertical, desenfocado, color*/
+}
